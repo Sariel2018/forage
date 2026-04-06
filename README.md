@@ -125,3 +125,7 @@ tests/              # Tests
 ## License
 
 [MIT](LICENSE)
+
+---
+
+If you find this work useful, please consider giving it a star and citing our paper.
