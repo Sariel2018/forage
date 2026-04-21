@@ -5,6 +5,7 @@
 <h3 align="center">How can an autonomous agent know it's done — when "done" itself must be discovered?</h3>
 
 <p align="center">
+  <a href="https://github.com/Sariel2018/forage-v2"><img src="https://img.shields.io/badge/NEW-Forage_V2-forestgreen.svg" alt="Forage V2"></a>
   <a href="https://arxiv.org/abs/TODO"><img src="https://img.shields.io/badge/arXiv-Forage-b31b1b.svg" alt="Paper"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
